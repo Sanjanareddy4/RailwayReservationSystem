@@ -1,0 +1,8 @@
+Direct route found: Train: 12058, Source: Anandpur Sahib, Source_departure_time: 05:46:00, Departure_day:0, Destination: New Delhi, Destination_arrival_time: 12:00:00, ARRIVAL_DAY: 0
+Direct route found: Train: 12058, Source: Anandpur Sahib, Source_departure_time: 05:46:00, Departure_day:1, Destination: New Delhi, Destination_arrival_time: 12:00:00, ARRIVAL_DAY: 1
+Direct route found: Train: 12058, Source: Anandpur Sahib, Source_departure_time: 05:46:00, Departure_day:2, Destination: New Delhi, Destination_arrival_time: 12:00:00, ARRIVAL_DAY: 2
+Direct route found: Train: 12058, Source: Anandpur Sahib, Source_departure_time: 05:46:00, Departure_day:3, Destination: New Delhi, Destination_arrival_time: 12:00:00, ARRIVAL_DAY: 3
+Direct route found: Train: 12058, Source: Anandpur Sahib, Source_departure_time: 05:46:00, Departure_day:4, Destination: New Delhi, Destination_arrival_time: 12:00:00, ARRIVAL_DAY: 4
+Direct route found: Train: 12058, Source: Anandpur Sahib, Source_departure_time: 05:46:00, Departure_day:5, Destination: New Delhi, Destination_arrival_time: 12:00:00, ARRIVAL_DAY: 5
+Direct route found: Train: 12058, Source: Anandpur Sahib, Source_departure_time: 05:46:00, Departure_day:6, Destination: New Delhi, Destination_arrival_time: 12:00:00, ARRIVAL_DAY: 6
+
